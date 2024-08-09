@@ -67,4 +67,5 @@ npm run dev
 yarn dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173` to view the application.
+4. Open your browser and navigate to `http://localhost:5173/:sender_id/:receiver_id` ex: `http://localhost:5173/chat/66b50c332d5d45e2be0a0acf/66b50c552d5d45e2be0a0ad0` to view the application.
+   
