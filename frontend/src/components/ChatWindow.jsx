@@ -130,7 +130,7 @@ const Chat = () => {
 									{msg.content}
 									<div className="text-xs text-gray-200 ">{formattedTime}</div>
 								</div>
-							</div>
+							</div> 
 						) : (
 							<div className="flex items-start space-x-2" key={msg._id}>
 								<Avatar
